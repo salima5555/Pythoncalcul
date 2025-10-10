@@ -4,3 +4,4 @@ def get_input(prompt):
             return float(input(prompt))
         except ValueError:
             print("Erreur: Veuillez entrer un nombre valide")
+            print("ERROR")
