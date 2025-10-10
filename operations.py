@@ -12,4 +12,9 @@ def divide(x, y):
     if y == 0:
         return "Erreur: Division par zéro"
     return x / y
+def msg(x,y):
+    if x==0 and y==0:
+        return "operation reussie!"
+    
+
 
