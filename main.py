@@ -3,7 +3,12 @@ from operations import add, subtract, multiply, divide
 from utils import get_input
 
 def main():
-    print("Bienvenue dans la calculatrice!")
+    print("==========================================") 
+    print("    PROJET CALCULATRICE - VERSION NOUR  ")
+    print("==========================================")
+    print("Bienvenue dans notre version améliorée du projet PythonCalcul ! ")
+    print("Développé en collaboration avec l’équipe de Salima \n")
+
     num1 = get_input("Entrez le premier nombre: ")
     num2 = get_input("Entrez le second nombre: ")
 
