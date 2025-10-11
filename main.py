@@ -30,7 +30,9 @@ def main():
         print(f"Résultat: {divide(num1, num2)}")
     else:
         print("Choix invalide.")
-
+    print("\nMerci d’avoir utilisé la version améliorée par Nour & Ons.")
+    print("Fin du programme.")
+    print("==========================================")
 if __name__ == "__main__":
     main()
 
